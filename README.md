@@ -49,7 +49,8 @@ MONGO_URI=your_mongodb_connection_string
 ```sh
 npm start
 ```
-The server will run at **http://localhost:3000/api/v1**.
+The server will run at **https://todoapp-m7sy.onrender.com/**.
+Or you can run at in your local system https://localhost:3000/api/v1
 
 ## 📡 API Endpoints
 | Method | Endpoint                | Description        |
