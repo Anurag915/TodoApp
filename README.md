@@ -32,8 +32,8 @@ TodoApp/
 ## ⚙️ Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone https://github.com/Anurag915/TodoApp.git
+cd TodoApp
 ```
 ### 2️⃣ Install Dependencies
 ```sh
@@ -42,7 +42,7 @@ npm install
 ### 3️⃣ Set Up Environment Variables
 Create a **.env** file and configure your MongoDB connection:
 ```env
-PORT=5000
+PORT=3000
 MONGO_URI=your_mongodb_connection_string
 ```
 ### 4️⃣ Start the Server
@@ -73,8 +73,8 @@ This project is licensed under the **MIT License**.
 
 ## 🤝 Contact
 For any queries, feel free to reach out:
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** anuragprajapati02005@gmail.com
+- **GitHub:** [Anurag915](https://github.com/Anurag915)
 
 ---
 ⭐ *If you like this project, give it a star on GitHub!*
